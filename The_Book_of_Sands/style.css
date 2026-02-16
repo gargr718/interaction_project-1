@@ -261,12 +261,16 @@ a:active{ transform: scale(0.98); }
     font-size: 38px;         
     line-height: 1.1;
     letter-spacing: 0.2px;
-    text-align: center;        
+    text-align: center;    
+      width: 100%;
+    
   }
 
   .subtitle{
     font-size: 12px;
     letter-spacing: 1.2px;
+    text-align: center;    
+      width: 100%;
   }
 
   
